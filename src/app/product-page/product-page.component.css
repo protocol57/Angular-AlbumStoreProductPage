@@ -1,0 +1,8 @@
+li {
+    list-style-type: none;
+}
+
+.albumart {
+    margin: 10px 15px;
+    padding: 15px 10px;
+}
